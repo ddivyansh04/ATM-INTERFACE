@@ -9,12 +9,18 @@ A console-based **ATM Management System** implemented in **C++**. This applicati
 
 To get started with the project, follow these steps:
 
-1. **Clone the repository**  
-   git clone https://github.com/yourusername/atm-management-system.git
+1. Clone the repository
+   - git clone https://github.com/yourusername/atm-management-system.git
 2. Navigate to the project director
    - cd atm-management-system
 3. Compile the source code
-  - g++ -o atm atm.cpp
+   - g++ -o atm atm.cpp
+4. Run the application
+   - ./atm
 
-4. 
+Tech Stack
+- C++
+- Standard Library (for data structures, I/O, time utilities)
+- Conditional Includes for Windows / Linux keypress handling
+
 
