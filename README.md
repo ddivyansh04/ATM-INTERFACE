@@ -1,4 +1,4 @@
-# ATM-INTERFACE
+
 # ATM Management System
 
 A console-based **ATM Management System** implemented in **C++**. This application simulates essential ATM functionalities, including account creation, secure authentication, deposits, withdrawals, transfers, and transaction history.
@@ -10,9 +10,9 @@ A console-based **ATM Management System** implemented in **C++**. This applicati
 To get started with the project, follow these steps:
 
 1. Clone the repository
-   - git clone https://github.com/yourusername/atm-management-system.git
-2. Navigate to the project director
-   - cd atm-management-system
+   - git clone https://github.com/ddivyansh04/Banking-and-ATM-interface.git
+2. Navigate to the project directory
+   - cd Banking-and-ATM-interface
 3. Compile the source code
    - g++ -o atm atm.cpp
 4. Run the application
@@ -40,7 +40,7 @@ If you would like to contribute to ATM Management System, follow these steps:
 2. Create a new branch
    - git checkout -b new-feature
 3. Make your changes and commit them:
-   - git commit -m "Add new feature"
+   - git commit -m "Add: new feature description"
 4. Push to the branch:
    - git push origin new-feature
 5. Create a pull request
